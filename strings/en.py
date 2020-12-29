@@ -1,4 +1,4 @@
-# Strings / localization file for greed
+# Strings / localization file for Portland Plug
 # Can be edited, but DON'T REMOVE THE REPLACEMENT FIELDS (words surrounded by {curly braces})
 
 # Part of the translation by https://github.com/DarrenWestwood
@@ -56,10 +56,7 @@ csv_caption = "A 📄 .csv file containing all transactions stored in the bot da
 
 # Conversation: the start command was sent and the bot should welcome the user
 conversation_after_start = "Hello!\n" \
-                           "Welcome to greed!\n" \
-                           "This is the 🅱️ <b>Beta</b> version of the software.\n" \
-                           "It is fully usable, but there may be some bugs are still present.\n" \
-                           "If you find any, please report them at https://github.com/Steffo99/greed/issues."
+                           "Welcome to Portland Plug!\n"
 
 # Conversation: to send an inline keyboard you need to send a message with it
 conversation_open_user_menu = "What would you like to do?\n" \
@@ -391,13 +388,13 @@ refund_reason = "Refund reason:\n" \
                 "{reason}"
 
 # Info: informazioni sul bot
-bot_info = 'This bot is using <a href="https://github.com/Steffo99/greed">greed</a>,' \
+bot_info = 'This bot is using <a href="https://github.com/Steffo99/Portland Plug">Portland Plug</a>,' \
            ' a framework by @Steffo for Telegram payments released under the' \
-           ' <a href="https://github.com/Steffo99/greed/blob/master/LICENSE.txt">' \
+           ' <a href="https://github.com/Steffo99/Portland Plug/blob/master/LICENSE.txt">' \
            'Affero General Public License 3.0</a>.\n'
 
 # Help: guide
-help_msg = "greed's guide is available at this address:\n" \
+help_msg = "Portland Plug's guide is available at this address:\n" \
            "https://docs.google.com/document/d/1f4MKVr0B7RSQfWTSa_6ZO0LM4nPpky_GX_qdls3EHtQ/"
 
 # Help: contact shopkeeper
