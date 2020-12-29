@@ -395,12 +395,10 @@ bot_info = 'This bot is using <a href="https://github.com/Steffo99/Portland Plug
 
 # Help: guide
 help_msg = "Portland Plug's guide is available at this address:\n" \
-           "https://docs.google.com/document/d/1f4MKVr0B7RSQfWTSa_6ZO0LM4nPpky_GX_qdls3EHtQ/"
+           ""
 
 # Help: contact shopkeeper
-contact_shopkeeper = "Currently, the staff available to provide user assistance is composed of:\n" \
-                     "{shopkeepers}\n" \
-                     "<i>Click / Tap one of their names to contact them in a Telegram chat.</i>"
+contact_shopkeeper = "To contact with me, open <b>SECRET CHAT</b> with me: @Portland_Plug"
 
 # Success: product has been added/edited to the database
 success_product_edited = "✅ The product has been successfully added/modified!"
